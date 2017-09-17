@@ -1,2 +1,2 @@
 # PythonChallenge
-Python Code for each mission of PythonChallenge
+Python Code for each mission of PythonChallenge.
