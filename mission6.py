@@ -3,7 +3,6 @@ import urllib.request
 
 url = 'http://www.pythonchallenge.com/pc/def/channel.html'
 p_obj = pickle.load(urllib.request.urlopen("http://www.pythonchallenge.com/pc/def/banner.p"))
-print(p_obj)
 
 for i in p_obj:
     line = ""
